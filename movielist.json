@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Cien años de soledad",
+    "description": "La obra maestra de Gabriel García Márquez, una novela que narra la historia de la familia Buendía a lo largo de varias generaciones en el pueblo ficticio de Macondo.",
+    "price": 20.99,
+    "image": "https://images.pexels.com/photos/316465/pexels-photo-316465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "title": "El señor de los anillos",
+    "description": "La trilogía épica de J.R.R. Tolkien que narra la historia del hobbit Frodo Bolsón y su misión para destruir el Anillo Único y acabar con el malvado Sauron.",
+    "price": 25.50,
+    "image": "https://images.pexels.com/photos/819375/pexels-photo-819375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "title": "1984",
+    "description": "La obra distópica de George Orwell que describe un futuro sombrío en el que el gobierno controla todos los aspectos de la vida de las personas.",
+    "price": 18.75,
+    "image": "https://images.pexels.com/photos/2122862/pexels-photo-2122862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  }
+]
