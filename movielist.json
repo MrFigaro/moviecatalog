@@ -1,20 +1,72 @@
-[
-  {
-    "title": "Cien años de soledad",
-    "description": "La obra maestra de Gabriel García Márquez, una novela que narra la historia de la familia Buendía a lo largo de varias generaciones en el pueblo ficticio de Macondo.",
-    "price": 20.99,
-    "poster": "https://images.pexels.com/photos/316465/pexels-photo-316465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-  },
-  {
-    "title": "El señor de los anillos",
-    "description": "La trilogía épica de J.R.R. Tolkien que narra la historia del hobbit Frodo Bolsón y su misión para destruir el Anillo Único y acabar con el malvado Sauron.",
-    "price": 25.50,
-    "poster": "https://images.pexels.com/photos/819375/pexels-photo-819375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-  },
-  {
-    "title": "1984",
-    "description": "La obra distópica de George Orwell que describe un futuro sombrío en el que el gobierno controla todos los aspectos de la vida de las personas.",
-    "price": 18.75,
-    "poster": "https://images.pexels.com/photos/2122862/pexels-photo-2122862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-  }
-]
+{
+  "films": [
+    {
+      "id": 1,
+      "name": "El señor de los anillos: La comunidad del anillo",
+      "img": "https://es.web.img3.acsta.net/pictures/14/03/26/12/32/205425.jpg",
+      "genero": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "year": "2001",
+      "duration": "2h 58min",
+      "director": "Peter Jackson",
+      "description": "En un mundo llamado la Tierra Media, un hobbit llamado Frodo Bolsón recibe un anillo mágico que tiene el poder de destruir el malvado Sauron, quien quiere conquistar el mundo para sí mismo."
+    },
+    {
+      "id": 2,
+      "name": "Star Wars: Episodio IV - Una nueva esperanza",
+      "img": "https://es.web.img3.acsta.net/pictures/15/10/19/09/10/449259.jpg",
+      "genero": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "year": "1977",
+      "duration": "2h 01min",
+      "director": "George Lucas",
+      "description": "En una galaxia lejana, un joven granjero llamado Luke Skywalker se une a la Alianza Rebelde para luchar contra el malvado Imperio Galáctico y rescatar a la princesa Leia Organa."
+    },
+    {
+      "id": 3,
+      "name": "Jurassic Park",
+      "img": "https://es.web.img3.acsta.net/pictures/14/04/28/17/11/064947.jpg",
+      "genero": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "year": "1993",
+      "duration": "2h 07min",
+      "director": "Steven Spielberg",
+      "description": "Un excéntrico millonario crea un parque temático con dinosaurios clonados, pero cuando un grupo de visitantes llega al parque, descubren que las criaturas no están tan controladas como se pensaba."
+    },
+    {
+      "id": 4,
+      "name": "Los Vengadores",
+      "img": "https://es.web.img3.acsta.net/medias/nmedia/18/89/39/94/20128026.jpg",
+      "genero": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "year": "2012",
+      "duration": "2h 23min",
+      "director": "Joss Whedon",
+      "description": "Los superhéroes más poderosos del mundo, como Iron Man, Thor, el Capitán América y Hulk, se unen para luchar contra un enemigo común: el malvado Loki y su ejército alienígena."
+    },
+    {
+      "id": 5,
+      "name": "Matrix",
+      "img": "https://es.web.img3.acsta.net/pictures/19/05/02/15/14/0658894.jpg",
+      "genero": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "year": "1999",
+      "duration": "2h 16min",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "description": "Un programador de computadoras llamado Neo descubre que el mundo en el que vive es una simulación creada por máquinas inteligentes, y que él es el elegido para liderar una rebelión contra ellas."
+    }
+  ]
+}
