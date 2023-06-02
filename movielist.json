@@ -2,166 +2,269 @@
     "films": [
         {
             "id": 1,
-            "name": "El señor de los anillos: La comunidad del anillo",
-            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "name": "Gladiador",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WBIzCgmDCYrqh64yDREGeDk9d3.jpg",
             "genero": [
-                "Aventura",
-                "Fantasía"
+                "Acción",
+                "Drama"
             ],
-            "year": "2001",
-            "duration": "2h 58min",
-            "director": "Peter Jackson",
-            "description": "En un mundo llamado la Tierra Media, un hobbit llamado Frodo Bolsón recibe un anillo mágico que tiene el poder de destruir el malvado Sauron, quien quiere conquistar el mundo para sí mismo."
+            "year": 2000,
+            "duration": "2h 35min",
+            "director": "Ridley Scott",
+            "description": "Un antiguo general romano se convierte en gladiador y lucha por vengarse del emperador que asesinó a su familia y lo condenó a la esclavitud. En medio de la lucha por su propia supervivencia, este valiente guerrero descubre la importancia de la lealtad y la amistad, mientras se enfrenta a sus demonios internos y a la crueldad de la sociedad romana."
         },
         {
             "id": 2,
-            "name": "Star Wars: Episodio IV - Una nueva esperanza",
-            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "name": "Una mente brillante",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+            "genero": [
+                "Drama",
+                "Biográfica"
+            ],
+            "year": 2001,
+            "duration": "2h 15min",
+            "director": "Ron Howard",
+            "description": "La historia del matemático John Nash, quien lucha contra la esquizofrenia mientras trata de hacer un importante descubrimiento matemático. A pesar de los obstáculos que enfrenta, Nash persevera en su búsqueda del conocimiento, y su historia nos muestra la fuerza del espíritu humano para superar las adversidades y lograr la grandeza."
+        },
+        {
+            "id": 3,
+            "name": "Chicago",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6lU4JG8vVCx42V1EeRm5KDCVxQy.jpg",
+            "genero": [
+                "Comedia",
+                "Crimen",
+                "Musical"
+            ],
+            "year": 2002,
+            "duration": "1h 53min",
+            "director": "Rob Marshall",
+            "description": "Una mujer acusada de asesinato se convierte en una celebridad cuando un abogado astuto la transforma en una sensación mediática. Este musical lleno de energía y ritmo nos lleva a través de una trama llena de giros y sorpresas, donde la música y el baile son la clave para entender los deseos ocultos de los personajes y sus motivaciones."
+        },
+        {
+            "id": 4,
+            "name": "El Señor de los Anillos: El retorno del Rey",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
             "genero": [
                 "Acción",
                 "Aventura",
                 "Fantasía"
             ],
-            "year": "1977",
-            "duration": "2h 01min",
-            "director": "George Lucas",
-            "description": "En una galaxia lejana, un joven granjero llamado Luke Skywalker se une a la Alianza Rebelde para luchar contra el malvado Imperio Galáctico y rescatar a la princesa Leia Organa."
-        },
-        {
-            "id": 3,
-            "name": "Jurassic Park",
-            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-            "genero": [
-                "Acción",
-                "Aventura",
-                "Ciencia ficción"
-            ],
-            "year": "1993",
-            "duration": "2h 07min",
-            "director": "Steven Spielberg",
-            "description": "Un excéntrico millonario crea un parque temático con dinosaurios clonados, pero cuando un grupo de visitantes llega al parque, descubren que las criaturas no están tan controladas como se pensaba."
-        },
-        {
-            "id": 4,
-            "name": "Los Vengadores",
-            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-            "genero": [
-                "Acción",
-                "Aventura",
-                "Ciencia ficción"
-            ],
-            "year": "2012",
-            "duration": "2h 23min",
-            "director": "Joss Whedon",
-            "description": "Los superhéroes más poderosos del mundo, como Iron Man, Thor, el Capitán América y Hulk, se unen para luchar contra un enemigo común: el malvado Loki y su ejército alienígena."
+            "year": 2003,
+            "duration": "3h 21min",
+            "director": "Peter Jackson",
+            "description": "El último enfrentamiento entre las fuerzas del bien y del mal en la Tierra Media, mientras Frodo y Sam acercan el Anillo al corazón de Mordor. Esta épica aventura nos lleva a través de paisajes espectaculares y personajes inolvidables, donde el valor y la lealtad son las armas más poderosas para enfrentar el mal que amenaza el mundo."
         },
         {
             "id": 5,
-            "name": "El Padrino",
-            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "name": "Million Dollar Baby",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ilqvpgZFOY3cN5Gzpycer9wbKs.jpg",
+            "genero": [
+                "Drama",
+                "Deportes"
+            ],
+            "year": 2004,
+            "duration": "2h 12min",
+            "director": "Clint Eastwood",
+            "description": "Una joven boxeadora se entrena con un veterano entrenador para alcanzar la cima en el mundodel boxeo. A pesar de los obstáculos que encuentra en su camino, esta valiente mujer encuentra en el boxeo una forma de superar sus limitaciones y de luchar por sus sueños. Esta conmovedora historia nos muestra la fuerza del espíritu humano para superar los obstáculos y lograr la grandeza."
+        },
+        {
+            "id": 6,
+            "name": "Crash",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6YJRzC3f8RZj7VXQbWu0YqZzgj.jpg",
+            "genero": [
+                "Drama",
+                "Crimen"
+            ],
+            "year": 2005,
+            "duration": "1h 52min",
+            "director": "Paul Haggis",
+            "description": "En Los Ángeles, varias historias se entrelazan en un mosaico de prejuicios, intolerancia y violencia. Esta película nos muestra cómo las decisiones que tomamos y las formas en que tratamos a los demás pueden tener consecuencias inesperadas y profundas."
+        },
+        {
+            "id": 7,
+            "name": "Los infiltrados",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7Xa3IiXlS7ZFYNiYBcZvN8o2RV.jpg",
             "genero": [
                 "Crimen",
                 "Drama"
             ],
-            "year": "1972",
-            "duration": "2h 55min",
-            "director": "Francis Ford Coppola",
-            "description": "La saga de una familia de la mafia italiana en Nueva York, liderada por Don Vito Corleone, y las luchas internas y externas por el poder y la supervivencia."
-        },
-        {
-            "id": 6,
-            "name": "Forrest Gump",
-            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-            "genero": [
-                "Drama",
-                "Romance"
-            ],
-            "year": "1994",
-            "duration": "2h 22min",
-            "director": "Robert Zemeckis",
-            "description": "La historia de Forrest Gump, un hombre con un coeficiente intelectual bajo que, a pesar de sus limitaciones, vive una vida increíblemente rica y variada que lo lleva a encontrarse con algunos de los eventos más significativos de la historia de Estados Unidos."
-        },
-        {
-            "id": 7,
-            "name": "Titanic",
-            "img": "https://raw.githubusercontent.com/alfredo-espal97/json_wwf/main/assets/wwf2.jpg",
-            "genero": [
-                "Drama",
-                "Romance"
-            ],
-            "year": "1997",
-            "duration": "3h 14min",
-            "director": "James Cameron",
-            "description": "La historia de amor entre Jack y Rose, dos jóvenes de diferentes clases sociales que se conocen a bordo del Titanic, el trasatlántico más grande y lujoso del mundo, que se hunde trágicamente en su viaje inaugural."
+            "year": 2006,
+            "duration": "2h 31min",
+            "director": "Martin Scorsese",
+            "description": "Un policía encubierto y un infiltrado en la mafia se enfrentan en una peligrosa partida de ajedrez, donde la vida de cada uno de ellos está en juego. Esta película llena de tensión, intriga y giros argumentales nos muestra la complejidad de la mente humana y la fragilidad de nuestras relaciones."
         },
         {
             "id": 8,
-            "name": "El rey león",
-            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "name": "No es país para viejos",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6KtCtXVfSrXjZCXYYKdYQvoI0vw.jpg",
             "genero": [
-                "Animación",
-                "Aventura",
+                "Crimen",
                 "Drama"
             ],
-            "year": "1994",
-            "duration": "1h 28min",
-            "director": "Roger Allers, Rob Minkoff",
-            "description": "La historia de Simba, un joven león que es desterrado de su hogar después de que su tío Scar asesina a su padre y toma el trono. Con la ayuda de sus amigos Timón y Pumba, Simba debe reclamar su lugar como rey de la selva."
+            "year": 2007,
+            "duration": "2h 2min",
+            "director": "Joel Coen, Ethan Coen",
+            "description": "Un cazador solitario encuentra una bolsa con dos millones de dólares en efectivo en la escena de un crimen, lo que lo lleva a enfrentarse a un asesino psicópata que quiere recuperar el dinero. Esta película oscura y llena de suspense nos muestra hasta dónde puede llegar la ambición humana y las consecuencias que pueden tener nuestras acciones."
         },
         {
             "id": 9,
-            "name": "La La Land",
-            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "name": "Slumdog Millionaire",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2vVZs0fReBt6A3L3B8GB1RlBOlv.jpg",
+            "genero": [
+                "Drama",
+                "Romance"
+            ],
+            "year": 2008,
+            "duration": "2h",
+            "director": "Danny Boyle",
+            "description": "Un joven huérfano de Mumbai participa en un popular concurso televisivo para ganar el amor de su vida y se ve obligado a revivir los traumas de su infancia. Esta película conmovedora y llena de color nos muestra la fuerza de la perseverancia, la determinación y el amor en un mundo lleno de adversidades."
+        },
+        {
+            "id": 10,
+            "name": "En tierra hostil",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YF9tBmE7g7WkVtP8g5QXTvG7ZQ.jpg",
+            "genero": [
+                "Drama",
+                "Guerra"
+            ],
+            "year": 2009,
+            "duration": "2h 11min",
+            "director": "Kathryn Bigelow",
+            "description": "Un equipo de artificieros del Ejército de Estados Unidos se enfrenta a la muerte en cada esquina mientras intenta desactivar bombas en Iraq. Esta película llena de tensión y adrenalina nos muestra la fragilidad de la vida humana en tiempos de guerra, y nos invita a reflexionar sobre las consecuencias devastadoras de la violencia y la guerra en las personas que las viven de cerca."
+        },
+        {
+            "id": 11,
+            "name": "El discurso del rey",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o8Dw8ioF1OyEIPQ2vFZyG8ajmU.jpg",
+            "genero": [
+                "Drama",
+                "Biográfica",
+                "Historia"
+            ],
+            "year": 2010,
+            "duration": "1h 58min",
+            "director": "Tom Hooper",
+            "description": "Esta película cuenta la historia del rey Jorge VI de Gran Bretaña, quien lucha por superar su tartamudez con la ayuda de un terapeuta poco convencional. A lo largo de la película, vemos cómo el rey se enfrenta a sus miedos y limitaciones para poder liderar a su país en un momento crucial de la historia."
+        },
+        {
+            "id": 12,
+            "name": "El artista",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qxjK8j8i2y1g9qFW3k0hksRrJFj.jpg",
             "genero": [
                 "Comedia",
                 "Drama",
                 "Romance"
             ],
-            "year": "2016",
-            "duration": "2h 8min",
-            "director": "Damien Chazelle",
-            "description": "La historia de amor entre Mia, una aspirante a actriz, y Sebastian, un pianista de jazz, mientras intentan hacer realidad sus sueños en Los Ángeles."
+            "year": 2011,
+            "duration": "1h 40min",
+            "director": "Michel Hazanavicius",
+            "description": "En esta película en blanco y negro y sin diálogos hablados, seguimos la historia de un actor de cine mudo que lucha por adaptarse a la llegada del cine sonoro mientras se enamora de una joven actriz en ascenso. A través de una narrativa visualmente impresionante y emotiva, esta película nos muestra la lucha de un artista por mantenerse relevante en una industria en constante cambio."
         },
         {
-            "id": 10,
-            "name": "Harry Potter y la piedra filosofal",
-            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "id": 13,
+            "name": "Argo",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f6K4H6gNomFvqZTQ0W0QMUh4dOx.jpg",
             "genero": [
-                "Aventura",
-                "Fantasía"
+                "Drama",
+                "Historia"
             ],
-            "year": "2001",
-            "duration": "2h 32min",
-            "director": "Chris Columbus",
-            "description": "La historia de Harry Potter, un niño huérfano que descubre que es un mago y comienza su educación en la escuela de magia y hechicería de Hogwarts, donde debe enfrentarse al malvado Lord Voldemort."
-        }
-                {
-            "id": 11,
-            "name": "Spider-Man: Into the Spider-Verse",
-            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-            "genero": [
-                "Animación",
-                "Acción",
-                "Aventura"
-            ],
-            "year": "2018",
-            "duration": "1h 57min",
-            "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
-            "description": "Miles Morales, un adolescente de Brooklyn, se convierte en el nuevo Spider-Man y descubre que hay un multiverso donde existen múltiples versiones del superhéroe. Juntos, deben unirse para detener a una amenaza que podría destruir todos los universos."
+            "year": 2012,
+            "duration": "2h",
+            "director": "Ben Affleck",
+            "description": "Basada en hechos reales, esta película sigue a un agente de la CIA que se hace pasar por un productor de Hollywood para rescatar a seis estadounidenses atrapados en Teherán durante la crisis de los rehenes de Irán. Llena de tensión y giros inesperados, esta película nos muestra la valentía y determinación de aquellos que arriesgan todo para salvar a otros."
         },
         {
-            "id": 12,
-            "name": "The Dark Knight",
-            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "id": 14,
+            "name": "12 años de esclavitud",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kb3X943WMIJYVgzyRWtydMep9Xg.jpg",
             "genero": [
-                "Acción",
-                "Crimen",
+                "Drama",
+                "Historia"
+            ],
+            "year": 2013,
+            "duration": "2h 14min",
+            "director": "Steve McQueen",
+            "description": "Basada en la autobiografía de Solomon Northup, esta película cuenta la historia de un hombre negro libre que es secuestrado y vendido como esclavo en el sur de los Estados Unidos antes de la Guerra Civil. Con una actuación poderosa y emotiva de su elenco, esta película nos muestra la crueldad y la injusticia de la esclavitud y nos invita a reflexionar sobre la lucha por la libertad y la igualdad."
+        },
+        {
+            "id": 15,
+            "name": "Birdman",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rSZs93P0LLxqlVEbI001UKoeCQC.jpg",
+            "genero": [
+                "Comedia",
                 "Drama"
             ],
-            "year": "2008",
-            "duration": "2h 32min",
-            "director": "Christopher Nolan",
-            "description": "Batman se enfrenta a su mayor enemigo hasta la fecha, el Joker, quien intenta sembrar el caos en Gotham City y obligar a Batman a cruzar la línea moral que separa al héroe del villano."
+            "year": 2014,
+            "duration": "1h 59min",
+            "director": "Alejandro González Iñárritu",
+            "description": "En esta película, seguimos a un actor en decadencia que intenta revivir su carrera actuando en una obra de teatro en Broadway. Con un estilo visual impresionante que simula una toma continua, esta película nos muestra la lucha de un artista por mantenerse relevante en un mundo que parece haberlo olvidado, y nos invita a reflexionar sobre la naturaleza del arte y la fama."
+        },
+        {
+            "id": 16,
+            "name": "Spotlight",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4zD0yvsSXKaB3y4JbNmVN6tRr6J.jpg",
+            "genero": [
+                "Crimen",
+                "Drama",
+                "Historia"
+            ],
+            "year": 2015,
+            "duration": "2h 9min",
+            "director": "Tom McCarthy",
+            "description": "Esta película cuenta la historia de un equipo de periodistas del Boston Globe que investiga y expone la corrupción y el encubrimiento en la iglesia católica local. Con una actuación impresionante de su elenco y una narrativa tensa y emocionante, esta película nos muestra el poder y la importancia del periodismo de investigación en la lucha por la verdad y la justicia."
+        },
+        {
+            "id": 17,
+            "name": "Moonlight",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ytaxWeVHDYtb7KPkrn3GNtDJdF.jpg",
+            "genero": [
+                "Drama"
+            ],
+            "year": 2016,
+            "duration": "1h 51min",
+            "director": "Barry Jenkins",
+            "description": "En esta película, seguimos la historia de un joven afroamericano que lucha por encontrar su lugar en el mundo mientras crece en un barrio conflictivo de Miami. Con una dirección hábil y una actuación emotiva de su elenco, esta película nos muestra la lucha de un hombre por encontrar su identidad y su lugar en un mundo que parece estar en su contra."
+        },
+        {
+            "id": 18,
+            "name": "La forma del agua",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7yHhO6x2L7KnnL7fYsXd7Zb9s6G.jpg",
+            "genero": [
+                "Aventura",
+                "Drama",
+                "Fantasía"
+            ],
+            "year": 2017,
+            "duration": "2h 3min",
+            "director": "Guillermo del Toro",
+            "description": "En esta película, ambientada en la década de 1960, seguimos la historia de una mujer muda que trabaja en un laboratorio gubernamental secreto y se enamora de una extraña criatura marina que está siendo estudiada allí. Con una dirección impresionante y una actuación emotiva de su elenco, esta película nos muestra la belleza y la complejidad del amor en todas sus formas."
+        },
+        {
+            "id": 19,
+            "name": "Green Book",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+            "genero": [
+                "Comedia",
+                "Drama",
+                "Biografía"
+            ],
+            "year": 2018,
+            "duration": "2h 10min",
+            "director": "Peter Farrelly",
+            "description": "En esta película, seguimos la historia de un pianista negro que contrata a un rudo guardia de seguridad italiano como chófer para una gira de conciertos por el sur de los Estados Unidos en la década de 1960. Con una dirección sólida y una actuación emotiva de su elenco, esta película nos muestra la importancia de la amistad y la empatía en la lucha contra el racismo y la discriminación."
+        },
+        {
+            "id": 20,
+            "name": "Parásitos",
+            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+            "genero": [
+                "Comedia",
+                "Drama"
+            ],
+            "year": 2019,
+            "duration": "2h 12min",
+            "director": "Bong Joon-ho",
+            "description": "En esta película, seguimos a una familia pobre de Corea del Sur quese infiltra en la vida de una familia rica y descubre secretos oscuros y peligrosos. Con una dirección hábil y una actuación emotiva de su elenco, esta película nos muestra la lucha de la clase trabajadora contra la desigualdad económica y social, mientras que también nos muestra la complejidad de la naturaleza humana y la corrupción que puede surgir en todos los niveles de la sociedad."
         }
     ]
 }
