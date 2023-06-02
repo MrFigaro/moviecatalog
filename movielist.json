@@ -5,8 +5,8 @@
       "name": "El señor de los anillos: La comunidad del anillo",
       "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
       "genero": [
-        "Adventure",
-        "Fantasy"
+        "Aventura",
+        "Fantasía"
       ],
       "year": "2001",
       "duration": "2h 58min",
@@ -18,9 +18,9 @@
       "name": "Star Wars: Episodio IV - Una nueva esperanza",
       "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
       "genero": [
-        "Action",
-        "Adventure",
-        "Fantasy"
+        "Acción",
+        "Aventura",
+        "Fantasía"
       ],
       "year": "1977",
       "duration": "2h 01min",
@@ -32,9 +32,9 @@
       "name": "Jurassic Park",
       "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
       "genero": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
       ],
       "year": "1993",
       "duration": "2h 07min",
@@ -46,9 +46,9 @@
       "name": "Los Vengadores",
       "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
       "genero": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
       ],
       "year": "2012",
       "duration": "2h 23min",
@@ -57,16 +57,82 @@
     },
     {
       "id": 5,
+      "name": "El Padrino",
+      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+      "genero": [
+        "Crimen",
+        "Drama"
+      ],
+      "year": "1972",
+      "duration": "2h 55min",
+      "director": "Francis Ford Coppola",
+      "description": "La saga de una familia de la mafia italiana en Nueva York, liderada por Don Vito Corleone, y las luchas internas y externas por el poder y la supervivencia."
+    },
+    {
+      "id": 6,
+      "name": "Forrest Gump",
+      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+      "genero": [
+        "Drama",
+        "Romance"
+      ],
+      "year": "1994",
+      "duration": "2h 22min",
+      "director": "Robert Zemeckis",
+      "description": "La historia de Forrest Gump, un hombre con un coeficiente intelectual bajo que, a pesar de sus limitaciones, vive una vida increíblemente rica y variada que lo lleva a encontrarse con algunos de los eventos más significativos de la historia de Estados Unidos."
+    },
+    {
+      "id": 7,
+      "name": "Titanic",
+      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+      "genero": [
+        "Drama",
+        "Romance"
+      ],
+      "year": "1997",
+      "duration": "3h 14min",
+      "director": "James Cameron",
+      "description": "La historia de amor entre Jack y Rose, dos pasajeros a bordo del Titanic, el famoso transatlántico que se hundió en 1912 después de chocar contra un iceberg."
+    },
+    {
+      "id": 8,
+      "name": "El club de la pelea",
+      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+      "genero": [
+        "Drama",
+        "Acción"
+      ],
+      "year": "1999",
+      "duration": "2h 19min",
+      "director": "David Fincher",
+      "description": "La historia de un oficinista insomne y un vendedor de jabón que crean un club de pelea clandestino que se convierte en un movimiento violento y revolucionario."
+    },
+    {
+      "id": 9,
+      "name": "El rey león",
+      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+      "genero": [
+        "Animación",
+        "Aventura",
+        "Drama"
+      ],
+      "year": "1994",
+      "duration": "1h 28min",
+      "director": "Roger Allers, Rob Minkoff",
+      "description": "La historia de un joven león llamado Simba, quien es el heredero del trono de su padre, Mufasa, pero es engañado por su tío Scar para exiliarse y tomar el control del reino."
+    },
+    {
+      "id": 10,
       "name": "Matrix",
       "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
       "genero": [
-        "Action",
-        "Sci-Fi"
+        "Ciencia ficción",
+        "Acción"
       ],
       "year": "1999",
       "duration": "2h 16min",
       "director": "Lana Wachowski, Lilly Wachowski",
-      "description": "Un programador de computadoras llamado Neo descubre que el mundo en el que vive es una simulación creada por máquinas inteligentes, y que él es el elegido para liderar una rebelión contra ellas."
+      "description": "La historia de Neo, un programador de computadoras que descubre que el mundo que cree que es real es en realidad una simulación creada por máquinas, y se une a una rebelión para luchar contra ellas."
     }
   ]
 }
