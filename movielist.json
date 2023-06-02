@@ -1,138 +1,167 @@
 {
-  "films": [
-    {
-      "id": 1,
-      "name": "El señor de los anillos: La comunidad del anillo",
-      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-      "genero": [
-        "Aventura",
-        "Fantasía"
-      ],
-      "year": "2001",
-      "duration": "2h 58min",
-      "director": "Peter Jackson",
-      "description": "En un mundo llamado la Tierra Media, un hobbit llamado Frodo Bolsón recibe un anillo mágico que tiene el poder de destruir el malvado Sauron, quien quiere conquistar el mundo para sí mismo."
-    },
-    {
-      "id": 2,
-      "name": "Star Wars: Episodio IV - Una nueva esperanza",
-      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-      "genero": [
-        "Acción",
-        "Aventura",
-        "Fantasía"
-      ],
-      "year": "1977",
-      "duration": "2h 01min",
-      "director": "George Lucas",
-      "description": "En una galaxia lejana, un joven granjero llamado Luke Skywalker se une a la Alianza Rebelde para luchar contra el malvado Imperio Galáctico y rescatar a la princesa Leia Organa."
-    },
-    {
-      "id": 3,
-      "name": "Jurassic Park",
-      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-      "genero": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "year": "1993",
-      "duration": "2h 07min",
-      "director": "Steven Spielberg",
-      "description": "Un excéntrico millonario crea un parque temático con dinosaurios clonados, pero cuando un grupo de visitantes llega al parque, descubren que las criaturas no están tan controladas como se pensaba."
-    },
-    {
-      "id": 4,
-      "name": "Los Vengadores",
-      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-      "genero": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ],
-      "year": "2012",
-      "duration": "2h 23min",
-      "director": "Joss Whedon",
-      "description": "Los superhéroes más poderosos del mundo, como Iron Man, Thor, el Capitán América y Hulk, se unen para luchar contra un enemigo común: el malvado Loki y su ejército alienígena."
-    },
-    {
-      "id": 5,
-      "name": "El Padrino",
-      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-      "genero": [
-        "Crimen",
-        "Drama"
-      ],
-      "year": "1972",
-      "duration": "2h 55min",
-      "director": "Francis Ford Coppola",
-      "description": "La saga de una familia de la mafia italiana en Nueva York, liderada por Don Vito Corleone, y las luchas internas y externas por el poder y la supervivencia."
-    },
-    {
-      "id": 6,
-      "name": "Forrest Gump",
-      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-      "genero": [
-        "Drama",
-        "Romance"
-      ],
-      "year": "1994",
-      "duration": "2h 22min",
-      "director": "Robert Zemeckis",
-      "description": "La historia de Forrest Gump, un hombre con un coeficiente intelectual bajo que, a pesar de sus limitaciones, vive una vida increíblemente rica y variada que lo lleva a encontrarse con algunos de los eventos más significativos de la historia de Estados Unidos."
-    },
-    {
-      "id": 7,
-      "name": "Titanic",
-      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-      "genero": [
-        "Drama",
-        "Romance"
-      ],
-      "year": "1997",
-      "duration": "3h 14min",
-      "director": "James Cameron",
-      "description": "La historia de amor entre Jack y Rose, dos pasajeros a bordo del Titanic, el famoso transatlántico que se hundió en 1912 después de chocar contra un iceberg."
-    },
-    {
-      "id": 8,
-      "name": "El club de la pelea",
-      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-      "genero": [
-        "Drama",
-        "Acción"
-      ],
-      "year": "1999",
-      "duration": "2h 19min",
-      "director": "David Fincher",
-      "description": "La historia de un oficinista insomne y un vendedor de jabón que crean un club de pelea clandestino que se convierte en un movimiento violento y revolucionario."
-    },
-    {
-      "id": 9,
-      "name": "El rey león",
-      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-      "genero": [
-        "Animación",
-        "Aventura",
-        "Drama"
-      ],
-      "year": "1994",
-      "duration": "1h 28min",
-      "director": "Roger Allers, Rob Minkoff",
-      "description": "La historia de un joven león llamado Simba, quien es el heredero del trono de su padre, Mufasa, pero es engañado por su tío Scar para exiliarse y tomar el control del reino."
-    },
-    {
-      "id": 10,
-      "name": "Matrix",
-      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
-      "genero": [
-        "Ciencia ficción",
-        "Acción"
-      ],
-      "year": "1999",
-      "duration": "2h 16min",
-      "director": "Lana Wachowski, Lilly Wachowski",
-      "description": "La historia de Neo, un programador de computadoras que descubre que el mundo que cree que es real es en realidad una simulación creada por máquinas, y se une a una rebelión para luchar contra ellas."
-    }
-  ]
+    "films": [
+        {
+            "id": 1,
+            "name": "El señor de los anillos: La comunidad del anillo",
+            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Aventura",
+                "Fantasía"
+            ],
+            "year": "2001",
+            "duration": "2h 58min",
+            "director": "Peter Jackson",
+            "description": "En un mundo llamado la Tierra Media, un hobbit llamado Frodo Bolsón recibe un anillo mágico que tiene el poder de destruir el malvado Sauron, quien quiere conquistar el mundo para sí mismo."
+        },
+        {
+            "id": 2,
+            "name": "Star Wars: Episodio IV - Una nueva esperanza",
+            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Acción",
+                "Aventura",
+                "Fantasía"
+            ],
+            "year": "1977",
+            "duration": "2h 01min",
+            "director": "George Lucas",
+            "description": "En una galaxia lejana, un joven granjero llamado Luke Skywalker se une a la Alianza Rebelde para luchar contra el malvado Imperio Galáctico y rescatar a la princesa Leia Organa."
+        },
+        {
+            "id": 3,
+            "name": "Jurassic Park",
+            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "year": "1993",
+            "duration": "2h 07min",
+            "director": "Steven Spielberg",
+            "description": "Un excéntrico millonario crea un parque temático con dinosaurios clonados, pero cuando un grupo de visitantes llega al parque, descubren que las criaturas no están tan controladas como se pensaba."
+        },
+        {
+            "id": 4,
+            "name": "Los Vengadores",
+            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "year": "2012",
+            "duration": "2h 23min",
+            "director": "Joss Whedon",
+            "description": "Los superhéroes más poderosos del mundo, como Iron Man, Thor, el Capitán América y Hulk, se unen para luchar contra un enemigo común: el malvado Loki y su ejército alienígena."
+        },
+        {
+            "id": 5,
+            "name": "El Padrino",
+            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Crimen",
+                "Drama"
+            ],
+            "year": "1972",
+            "duration": "2h 55min",
+            "director": "Francis Ford Coppola",
+            "description": "La saga de una familia de la mafia italiana en Nueva York, liderada por Don Vito Corleone, y las luchas internas y externas por el poder y la supervivencia."
+        },
+        {
+            "id": 6,
+            "name": "Forrest Gump",
+            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Drama",
+                "Romance"
+            ],
+            "year": "1994",
+            "duration": "2h 22min",
+            "director": "Robert Zemeckis",
+            "description": "La historia de Forrest Gump, un hombre con un coeficiente intelectual bajo que, a pesar de sus limitaciones, vive una vida increíblemente rica y variada que lo lleva a encontrarse con algunos de los eventos más significativos de la historia de Estados Unidos."
+        },
+        {
+            "id": 7,
+            "name": "Titanic",
+            "img": "https://raw.githubusercontent.com/alfredo-espal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Drama",
+                "Romance"
+            ],
+            "year": "1997",
+            "duration": "3h 14min",
+            "director": "James Cameron",
+            "description": "La historia de amor entre Jack y Rose, dos jóvenes de diferentes clases sociales que se conocen a bordo del Titanic, el trasatlántico más grande y lujoso del mundo, que se hunde trágicamente en su viaje inaugural."
+        },
+        {
+            "id": 8,
+            "name": "El rey león",
+            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Animación",
+                "Aventura",
+                "Drama"
+            ],
+            "year": "1994",
+            "duration": "1h 28min",
+            "director": "Roger Allers, Rob Minkoff",
+            "description": "La historia de Simba, un joven león que es desterrado de su hogar después de que su tío Scar asesina a su padre y toma el trono. Con la ayuda de sus amigos Timón y Pumba, Simba debe reclamar su lugar como rey de la selva."
+        },
+        {
+            "id": 9,
+            "name": "La La Land",
+            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Comedia",
+                "Drama",
+                "Romance"
+            ],
+            "year": "2016",
+            "duration": "2h 8min",
+            "director": "Damien Chazelle",
+            "description": "La historia de amor entre Mia, una aspirante a actriz, y Sebastian, un pianista de jazz, mientras intentan hacer realidad sus sueños en Los Ángeles."
+        },
+        {
+            "id": 10,
+            "name": "Harry Potter y la piedra filosofal",
+            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Aventura",
+                "Fantasía"
+            ],
+            "year": "2001",
+            "duration": "2h 32min",
+            "director": "Chris Columbus",
+            "description": "La historia de Harry Potter, un niño huérfano que descubre que es un mago y comienza su educación en la escuela de magia y hechicería de Hogwarts, donde debe enfrentarse al malvado Lord Voldemort."
+        }
+                {
+            "id": 11,
+            "name": "Spider-Man: Into the Spider-Verse",
+            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Animación",
+                "Acción",
+                "Aventura"
+            ],
+            "year": "2018",
+            "duration": "1h 57min",
+            "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+            "description": "Miles Morales, un adolescente de Brooklyn, se convierte en el nuevo Spider-Man y descubre que hay un multiverso donde existen múltiples versiones del superhéroe. Juntos, deben unirse para detener a una amenaza que podría destruir todos los universos."
+        },
+        {
+            "id": 12,
+            "name": "The Dark Knight",
+            "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+            "genero": [
+                "Acción",
+                "Crimen",
+                "Drama"
+            ],
+            "year": "2008",
+            "duration": "2h 32min",
+            "director": "Christopher Nolan",
+            "description": "Batman se enfrenta a su mayor enemigo hasta la fecha, el Joker, quien intenta sembrar el caos en Gotham City y obligar a Batman a cruzar la línea moral que separa al héroe del villano."
+        }
+    ]
 }
