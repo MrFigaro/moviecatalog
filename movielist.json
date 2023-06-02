@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Gladiador",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WBIzCgmDCYrqh64yDREGeDk9d3.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/00Gladiator.jpg",
             "genero": [
                 "Acción",
                 "Drama"
@@ -16,7 +16,7 @@
         {
             "id": 2,
             "name": "Una mente brillante",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/01ABeautifulMind.jpg",
             "genero": [
                 "Drama",
                 "Biográfica"
@@ -29,7 +29,7 @@
         {
             "id": 3,
             "name": "Chicago",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6lU4JG8vVCx42V1EeRm5KDCVxQy.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/02Chicago.jpg",
             "genero": [
                 "Comedia",
                 "Crimen",
@@ -43,7 +43,7 @@
         {
             "id": 4,
             "name": "El Señor de los Anillos: El retorno del Rey",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/03ElSeñordelosAnillosElretornodelRey.jpg",
             "genero": [
                 "Acción",
                 "Aventura",
@@ -57,7 +57,7 @@
         {
             "id": 5,
             "name": "Million Dollar Baby",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ilqvpgZFOY3cN5Gzpycer9wbKs.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/04MillionDollarBaby.jpg",
             "genero": [
                 "Drama",
                 "Deportes"
@@ -70,7 +70,7 @@
         {
             "id": 6,
             "name": "Crash",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6YJRzC3f8RZj7VXQbWu0YqZzgj.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/05Crash.jpg",
             "genero": [
                 "Drama",
                 "Crimen"
@@ -83,7 +83,7 @@
         {
             "id": 7,
             "name": "Los infiltrados",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7Xa3IiXlS7ZFYNiYBcZvN8o2RV.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/06LosInfiltrados.jpg",
             "genero": [
                 "Crimen",
                 "Drama"
@@ -96,7 +96,7 @@
         {
             "id": 8,
             "name": "No es país para viejos",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6KtCtXVfSrXjZCXYYKdYQvoI0vw.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/07NoEsPaisParaViejos.jpg",
             "genero": [
                 "Crimen",
                 "Drama"
@@ -109,7 +109,7 @@
         {
             "id": 9,
             "name": "Slumdog Millionaire",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2vVZs0fReBt6A3L3B8GB1RlBOlv.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/08SlumdogMillionaire.jpg",
             "genero": [
                 "Drama",
                 "Romance"
@@ -122,7 +122,7 @@
         {
             "id": 10,
             "name": "En tierra hostil",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YF9tBmE7g7WkVtP8g5QXTvG7ZQ.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/09EnTierraHostil.jpg",
             "genero": [
                 "Drama",
                 "Guerra"
@@ -135,7 +135,7 @@
         {
             "id": 11,
             "name": "El discurso del rey",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o8Dw8ioF1OyEIPQ2vFZyG8ajmU.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/10ElDiscursodelRey.jpg",
             "genero": [
                 "Drama",
                 "Biográfica",
@@ -149,7 +149,7 @@
         {
             "id": 12,
             "name": "El artista",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qxjK8j8i2y1g9qFW3k0hksRrJFj.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/11TheArtist.jpg",
             "genero": [
                 "Comedia",
                 "Drama",
@@ -163,7 +163,7 @@
         {
             "id": 13,
             "name": "Argo",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f6K4H6gNomFvqZTQ0W0QMUh4dOx.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/12Argo.jpg",
             "genero": [
                 "Drama",
                 "Historia"
@@ -176,7 +176,7 @@
         {
             "id": 14,
             "name": "12 años de esclavitud",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kb3X943WMIJYVgzyRWtydMep9Xg.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/13YearsASlave.jpg",
             "genero": [
                 "Drama",
                 "Historia"
@@ -189,7 +189,7 @@
         {
             "id": 15,
             "name": "Birdman",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rSZs93P0LLxqlVEbI001UKoeCQC.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/14Birdman.jpg",
             "genero": [
                 "Comedia",
                 "Drama"
@@ -202,7 +202,7 @@
         {
             "id": 16,
             "name": "Spotlight",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4zD0yvsSXKaB3y4JbNmVN6tRr6J.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/15Spotlight.jpg",
             "genero": [
                 "Crimen",
                 "Drama",
@@ -216,7 +216,7 @@
         {
             "id": 17,
             "name": "Moonlight",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ytaxWeVHDYtb7KPkrn3GNtDJdF.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/16Moonlight.jpg",
             "genero": [
                 "Drama"
             ],
@@ -228,7 +228,7 @@
         {
             "id": 18,
             "name": "La forma del agua",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7yHhO6x2L7KnnL7fYsXd7Zb9s6G.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/17Laformadelagua.jpg",
             "genero": [
                 "Aventura",
                 "Drama",
@@ -242,7 +242,7 @@
         {
             "id": 19,
             "name": "Green Book",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/18GreenBook.jpg",
             "genero": [
                 "Comedia",
                 "Drama",
@@ -256,7 +256,7 @@
         {
             "id": 20,
             "name": "Parásitos",
-            "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+            "img": "https://raw.githubusercontent.com/MrFigaro/moviecatalog/main/movieimg/19Parasite.jpg",
             "genero": [
                 "Comedia",
                 "Drama"
