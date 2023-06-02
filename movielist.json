@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "El señor de los anillos: La comunidad del anillo",
-      "img": "https://es.web.img3.acsta.net/pictures/14/03/26/12/32/205425.jpg",
+      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
       "genero": [
         "Adventure",
         "Fantasy"
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "name": "Star Wars: Episodio IV - Una nueva esperanza",
-      "img": "https://es.web.img3.acsta.net/pictures/15/10/19/09/10/449259.jpg",
+      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
       "genero": [
         "Action",
         "Adventure",
@@ -30,7 +30,7 @@
     {
       "id": 3,
       "name": "Jurassic Park",
-      "img": "https://es.web.img3.acsta.net/pictures/14/04/28/17/11/064947.jpg",
+      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
       "genero": [
         "Action",
         "Adventure",
@@ -44,7 +44,7 @@
     {
       "id": 4,
       "name": "Los Vengadores",
-      "img": "https://es.web.img3.acsta.net/medias/nmedia/18/89/39/94/20128026.jpg",
+      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
       "genero": [
         "Action",
         "Adventure",
@@ -58,7 +58,7 @@
     {
       "id": 5,
       "name": "Matrix",
-      "img": "https://es.web.img3.acsta.net/pictures/19/05/02/15/14/0658894.jpg",
+      "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
       "genero": [
         "Action",
         "Sci-Fi"
